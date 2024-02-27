@@ -1,0 +1,15 @@
+pandas
+psycopg2
+flask
+matplotlib
+seaborn
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+dill
+sqlalchemy
+imbalanced-learn
+-e .
+
